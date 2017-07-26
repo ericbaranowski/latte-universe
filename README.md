@@ -1,6 +1,6 @@
 # latte-universe
 
-Welcome to the default Latte repository. When you install Latte, the repository that comes initially is the `Seanld` repo, which is directed at this URL (https://github.com/Seanld/latte-universe).
+Welcome to the default Latte repository. When you install Latte, the repository that comes initially is the `default` repo, which is directed at this URL (https://github.com/Seanld/latte-universe).
 
 ## All Packages
 
